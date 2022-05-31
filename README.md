@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PudduDavide
 - 👀 I’m interested I’m interested in everything that life proposes
-- 🌱 I’m currently learning OSX/Web development 
+- 🌱 I’m currently learning OSX/Web development and working for Accenture 
 - 📫 puddudavide@virgilio.it
 
 <!---
